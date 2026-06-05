@@ -16,7 +16,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Controllers\" />
+      <Folder Include="data\" />
+      <Folder Include="Properties\Exceptions\" />
     </ItemGroup>
 
 </Project>

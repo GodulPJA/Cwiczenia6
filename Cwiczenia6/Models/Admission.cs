@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Cwiczenia6;
+namespace Cwiczenia6.Models;
 
 public partial class Admission
 {
